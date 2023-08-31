@@ -1,0 +1,7 @@
+{
+  "employee": [
+    { "firstName": "John", "lastName": "Doe" },
+    { "firstName": "Peter", "lastName": "Jones" },
+    { "firstName": "Anna", "lastName": "Smith" }
+  ]
+}

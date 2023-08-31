@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgc {
+  background: url('./components/images/nftbg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+@layer components {
+  .input-style {
+    @apply border p-2 rounded-md outline-none focus:scale-95 hover:opacity-70;
+  }
+}
+@layer components {
+  .input-text {
+    @apply bg-white text-zinc-950 font-semibold;
+  }
+}

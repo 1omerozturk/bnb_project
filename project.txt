@@ -1,0 +1,6 @@
+205542004 Ömer Öztürk 
+
+- Frontend için React 
+- Backend için solidity 
+- Konu: Hala belli değidir fakat bir kripto para cüzdanı bağlanarak ve kullanılarak,
+- bir e-ticaret sitesi, bir Blokchain Oyunu veya NFT alım satım sitesi olacaktır, konu daha sonra netleşecektir.
